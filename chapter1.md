@@ -1,20 +1,22 @@
 ---
-title: Test
-description: Test
-
+  title: "Introduction"
+  description: "Introduction to Python"
 ---
 
 ## An exercise title written in sentence case
 
 ```yaml
-type: NormalExercise
+type: NormalExercise 
 lang: python
-xp: 100
+xp: 100 
 skills: 2
+key: a8caff9d48   
 ```
+
 
 This is the assignment text. It should help provide students with the background information needed.
 The instructions that follow should be in bullet point form with clear guidance for what is expected.
+
 
 `@instructions`
 - Instruction 1
